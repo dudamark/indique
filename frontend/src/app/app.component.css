@@ -1,0 +1,7 @@
+.background{
+    height: 100%;
+    /* background: url(../assets/board.jpg) no-repeat center center fixed; */
+    background-size: cover; /*Css padrão*/
+    /* margin-top : -50px;
+    padding: 100px; */
+ }
